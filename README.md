@@ -2,7 +2,7 @@
 
 - **Alumno:** Nahuel Ariel Condori
 - **Comisión:** (C7)
-- **Repositorio:** (completar con el enlace de GitHub)
+- **Repositorio:** (https://github.com/NahuelC19/TP2-REACT-PORTFOLIO.git)
 
 ## Descripción
 
