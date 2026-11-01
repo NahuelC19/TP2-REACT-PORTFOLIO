@@ -1,7 +1,7 @@
 # TP2 - Portfolio multipágina con React Router DOM
 
 - **Alumno:** Nahuel Ariel Condori
-- **Comisión:** (completar)
+- **Comisión:** (C7)
 - **Repositorio:** (completar con el enlace de GitHub)
 
 ## Descripción
